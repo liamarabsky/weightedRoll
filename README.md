@@ -1,0 +1,2 @@
+# weightedRoll
+Deterministic loot calculator
